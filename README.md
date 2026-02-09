@@ -1,4 +1,6 @@
 High School Data Analysis System (Large Dataset Project)
+
+
 📌 Project Overview
 
 This project focuses on analyzing high school educational data containing more than 600,000 records. The system was designed to extract meaningful insights from large-scale student performance data using data analysis, visualization, and automation techniques.
